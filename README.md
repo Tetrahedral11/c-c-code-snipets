@@ -1,1 +1,1 @@
-# c-c-code-snipets
+# c/code-snipets
